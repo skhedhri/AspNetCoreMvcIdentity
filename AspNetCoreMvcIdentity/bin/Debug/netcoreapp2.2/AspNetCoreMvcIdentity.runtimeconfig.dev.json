@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SKHEDHRI.BFI-PROD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SKHEDHRI.BFI-PROD\\.nuget\\packages"
+    ]
+  }
+}
